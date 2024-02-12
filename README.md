@@ -1,3 +1,13 @@
+# To compile, follow these instructions:
+install react router dom version 5 by running the following command:
+npm install react-router-dom@5
+
+initialise json server by running the following command:
+npx json-server --watch src\data\db.json --port 8000
+
+compile and build the app by running the following command:
+npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
