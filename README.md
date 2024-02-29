@@ -1,4 +1,8 @@
 # To compile, follow these instructions:
+
+install npm node modules by running the following command:
+npm install
+
 install react router dom version 5 by running the following command:
 npm install react-router-dom@5
 
