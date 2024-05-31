@@ -1,15 +1,15 @@
-# To compile, follow these instructions:
+# To compile and build the application, please follow the instructions below:
 
-install npm node modules by running the following command:
+Install npm node modules by running the following command:
 npm install
 
-install react router dom version 5 by running the following command:
+Install react router dom version 5 by running the following command:
 npm install react-router-dom@5
 
-initialise json server by running the following command:
+Initialise json server by running the following command:
 npx json-server --watch src\data\db.json --port 8000
 
-compile and build the app by running the following command:
+Compile and build the app by running the following command:
 npm start
 
 # Getting Started with Create React App
